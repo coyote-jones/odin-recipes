@@ -24,7 +24,7 @@ img {
     height: auto;
 }
 
-a {
+.list-link {
     color: rgb(182, 0, 36);
     font-size: 20px;
 }
