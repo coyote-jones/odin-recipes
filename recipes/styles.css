@@ -8,15 +8,31 @@ h1 {
     font-size: 65px;
 }
 
-.text {
+img {
+    height: auto;
+    width: 450px;
+}
+
+h2,
+h3,
+h4 {
+    color: rgb(182, 0, 36);
+}
+
+li,
+.details {
     color: cornsilk;
     font-size: 23px;
 }
 
-.dm-text {
-    color: rgb(182, 0, 36);
-    font-size: 45px;
-    font-weight: bold;
+em {
+    color: silver;
+    font-size: 18px;
+}
+
+strong {
+    color: slateblue;
+    font-size: 20px;
 }
 
 img {
