@@ -19,8 +19,13 @@ h1 {
     font-weight: bold;
 }
 
-img {
+.meme {
     width: 550px;
+    height: auto;
+}
+
+.footer {
+    width: 50px;
     height: auto;
 }
 

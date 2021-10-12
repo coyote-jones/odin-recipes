@@ -45,3 +45,8 @@ a {
     color: rgb(182, 0, 36);
     font-size: 20px;
 }
+
+.footer {
+    width: 50px;
+    height: auto;
+}
