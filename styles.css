@@ -4,16 +4,16 @@ html {
 }
 
 h1 {
-    color: purple;
+    color: blueviolet;
     font-size: 65px;
 }
 
-p {
+.text {
     color: cornsilk;
     font-size: 23px;
 }
 
-p strong {
+.dm-text {
     color: rgb(182, 0, 36);
     font-size: 45px;
     font-weight: bold;
