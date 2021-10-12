@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: purple;
+    font-size: 65px;
+}
+
+p {
+    color: cornsilk;
+    font-size: 23px;
+}
+
+p strong {
+    color: rgb(182, 0, 36);
+    font-size: 45px;
+    font-weight: bold;
+}
+
+img {
+    width: 550px;
+    height: auto;
+}
+
+a {
+    color: rgb(182, 0, 36);
+    font-size: 20px;
+}
